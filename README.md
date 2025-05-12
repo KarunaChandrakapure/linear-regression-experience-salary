@@ -54,10 +54,10 @@ The goal of this project is to:
 
 ## 📝 Results
 
-- **Slope (Coefficient)**: _e.g. 9449.96_  
-- **Intercept**: _e.g. 25792.20_  
-- **R² Score on Test Data**: _e.g. 0.85_  
-- **RMSE**: _e.g. ₹7059_
+- **Slope (Coefficient)**:  9423.815 
+- **Intercept**:  24380.201
+- **R² Score on Test Data**:  0.90  
+- **RMSE**: ₹7059.043
 
 > The model shows a strong linear relationship between experience and salary, but errors indicate variability not captured by the simple model.
 
